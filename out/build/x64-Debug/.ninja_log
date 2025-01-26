@@ -1,0 +1,8 @@
+# ninja log v6
+8	50	7595976058548285	CMakeFiles/algo_geo_3.dir/point.cpp.obj	e195515ae36432a2
+10	235	7595976058578294	CMakeFiles/algo_geo_3.dir/carte.cpp.obj	d8816fea9e62541c
+12	266	7595976058598287	CMakeFiles/algo_geo_3.dir/winbgi.cpp.obj	790582459a6a54cd
+14	334	7595976058618303	CMakeFiles/algo_geo_3.dir/triangulation.cpp.obj	118d4d8e66a4c11c
+6	454	7595976058528274	CMakeFiles/algo_geo_3.dir/affichage.cpp.obj	3320a6e61eacc31c
+3	455	7595976058497698	CMakeFiles/algo_geo_3.dir/main.cpp.obj	1acdfe4a8186bfcd
+455	637	7595976063030648	algo_geo_3.exe	2da189c6c1fc666e
