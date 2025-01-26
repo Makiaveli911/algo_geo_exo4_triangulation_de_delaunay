@@ -144,7 +144,7 @@ public:
     // Renvoie l'adresse de dc1.
 	DemiCote* ajouteCote(const Point& p1, const Point& p2);
 
-
+	void flip(DemiCote* d);
 private:
 
 	// Ajoute un nouveau demi-c�t� dans la carte dont precedent sera le demi-c�t�
@@ -162,7 +162,7 @@ private:
 	// Renvoie l�adresse du nouveau demi-c�t�.
 	DemiCote* ajouteDemiCote(const Point &p, DemiCote* oppose=nullptr);
 
-    void flip(DemiCote *d);
+    
 
 
     vector<Sommet*> tableauSommets;       // tableau des sommets

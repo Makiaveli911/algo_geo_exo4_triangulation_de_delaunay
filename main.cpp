@@ -18,11 +18,11 @@ int main() {
         Point p6(340, 250);
         Point p7(355, 110);
         Point p8(380, 150);
-        Point p9(600, 150);
+        Point p9(500, 150);
 
 
     // Ajouter ces points dans un vecteur
-    std::vector<Point> points = {p1, p2, p3, p4 , p5 , p6 , p7 , p8 , p9 };
+    std::vector<Point> points = {p1, p2, p3, p4,p5 ,p6,p7, p8 ,p9};
     triangulation(points, carte);
 
     // Afficher un message de succès

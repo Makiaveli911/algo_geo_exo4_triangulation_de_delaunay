@@ -16,6 +16,10 @@ public:
 	// à gauche de, à droite de, ou sur la droite (ab) orientée de a vers b.
 	int aGauche(const Point &a, const Point &b) const;
 
+	// renvoie 1, -1 ou 0 selon que le point auquel la méthode est appliquée est
+	// au-dessus de, en-dessous de, ou sur la droite (ab) orientée de a vers b.
+	int dansCercle(const Point& a, const Point& b, const Point& c) const;
+
 
 private:
     // coordonnées
